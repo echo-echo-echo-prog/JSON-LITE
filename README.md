@@ -2,8 +2,8 @@
 ```
 cd $HOME
 rm -rf JSON-LITE
-git clone --depth=1 https://github.com/SHAJON-404/JSON-LITE.git
+git clone --depth=1 https://github.com/echo-echo-echo-prog/JSON-LITE.git
 cd JSON-LITE
 chmod 777 *
-./lite
+./echo
 ```
